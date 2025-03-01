@@ -1,6 +1,6 @@
 let handler = async (m, { isPrems, conn }) => {
 
-let img = 'https://i.ibb.co/Y7mhFdf/file.jpg'
+let img = 'https://masterpiecer-images.s3.yandex.net/8b141c383f5611eeb12e6a2aaa288599:upscaled'
 let texto = `🌟 𝐌𝐄𝐍𝐔2 🌟
 *˚₊·˚₊· ͟͟͞͞➳❥ @+${m.sender.split("@")[0]}*
 > ┆ *│* ┊▸ ✦ 
@@ -19,7 +19,7 @@ let texto = `🌟 𝐌𝐄𝐍𝐔2 🌟
 > ┆ *Правила
 > ┆ *Ушла
 > ┆ *Давай
-> ┆ *Время              https://i.ibb.co/Y7mhFdf/file.jpg
+> ┆ *Время
 > ┆ *Как дела
 > ┆ *Спать
 > ┆ *Друг
