@@ -111,14 +111,14 @@ let handler = async (m, { conn, text }) => {
     }
   } catch (error) {
     console.log(error);
-    await conn.reply(m.chat, "❌ Ocurrió un error al procesar tu solicitud.", m);
+    await conn.reply(m.chat, "❌ Произошла ошибка при обработке вашего запроса.", m);
     await m.react('✖️');
   }
 };
 
 handler.help = ['Audio'];
 handler.tags = ['dl'];
-handler.customPrefix = /^(AUDIO|audio|Audio)$/i;
+handler.customPrefix = /^(аудио)$/i;
 ;
 handler.Monedas = 5;
 handler.command = new RegExp;
