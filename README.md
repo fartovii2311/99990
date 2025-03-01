@@ -1,7 +1,7 @@
 # Lynx-Ai
 
 ---------
-<img src="https://i.ibb.co/Y7mhFdf/file.jpg" alt="Lynx Logo">
+<img src="/media/menus/меню11.mp4" alt="Lynx Logo"> 
 
 ---------
 
