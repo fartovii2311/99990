@@ -46,26 +46,26 @@ global.imagen1 = fs.readFileSync('./storage/img/logo.png');
 
 
 // Imágenes en la nube
-global.img = 'https://i.ibb.co/Y7mhFdf/file.jpg'
-global.img2 = 'https://i.ibb.co/Y7mhFdf/file.jpg'
-global.img3 = 'https://i.ibb.co/Y7mhFdf/file.jpg' //ft rectangular
-global.img5 = 'https://i.ibb.co/Y7mhFdf/file.jpg'
-global.img6 = 'https://i.ibb.co/Y7mhFdf/file.jpg'
-global.img7 = 'https://i.ibb.co/Y7mhFdf/file.jpg'
-global.img8 = 'https://i.ibb.co/Y7mhFdf/file.jpg'
-global.img9 = 'https://i.ibb.co/Y7mhFdf/file.jpg'
-global.img10 = 'https://i.ibb.co/Y7mhFdf/file.jpg'
-global.img11 = 'https://i.ibb.co/Y7mhFdf/file.jpg'
-global.img12 = 'https://i.ibb.co/Y7mhFdf/file.jpg'
-global.img13 = 'https://i.ibb.co/Y7mhFdf/file.jpg'
-global.img14 = 'https://i.ibb.co/Y7mhFdf/file.jpg'
-global.img15 = 'https://i.ibb.co/Y7mhFdf/file.jpg'
-global.img17 = 'https://i.ibb.co/Y7mhFdf/file.jpg'
-global.img18 = 'https://i.ibb.co/Y7mhFdf/file.jpg'
-global.img19 = 'https://i.ibb.co/Y7mhFdf/file.jpg'
-global.img20 = 'https://i.ibb.co/Y7mhFdf/file.jpg'
-global.img21 = 'https://i.ibb.co/Y7mhFdf/file.jpg'
-global.img21 = 'https://i.ibb.co/Y7mhFdf/file.jpg' // imagen paypal
+global.img = '/media/menus/меню11.mp4'
+global.img2 = '/media/menus/меню11.mp4'
+global.img3 = '/media/menus/меню11.mp4' //ft rectangular
+global.img5 = '/media/menus/меню11.mp4'
+global.img6 = '/media/menus/меню11.mp4'
+global.img7 = '/media/menus/меню11.mp4'
+global.img8 = '/media/menus/меню11.mp4'
+global.img9 = '/media/menus/меню11.mp4'
+global.img10 = '/media/menus/меню11.mp4'
+global.img11 = '/media/menus/меню11.mp4'
+global.img12 = '/media/menus/меню11.mp4'
+global.img13 = '/media/menus/меню11.mp4'
+global.img14 = '/media/menus/меню11.mp4'
+global.img15 = '/media/menus/меню11.mp4'
+global.img17 = '/media/menus/меню11.mp4'
+global.img18 = '/media/menus/меню11.mp4'
+global.img19 = '/media/menus/меню11.mp4'
+global.img20 = '/media/menus/меню11.mp4'
+global.img21 = '/media/menus/меню11.mp4'
+global.img21 = '/media/menus/меню11.mp4' // imagen paypal
 
 global.welgata = [ig, yt2, yt2, ig, md, ig, yt, paypal, yt2, yt2, ig, fb, tg]
 global.redesMenu = [nna, nn2, nn, nnn, nnnt, nnntt, nnnttt, nnnttt1, nnnttt2, nnnttt3, nnnttt4, md, ig, paypal, yt, asistencia, fb, tg]

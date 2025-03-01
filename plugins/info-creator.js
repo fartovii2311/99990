@@ -19,7 +19,7 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
                 showAdAttribution: true,
                 title: `привет`,
                 body: 'Это официальный контакт моего создателя',
-                thumbnailUrl: 'https://i.ibb.co/Y7mhFdf/file.jpg',
+                thumbnailUrl: '/media/menus/меню11.mp4',
                 mediaType: 1,
                 renderLargerThumbnail: true
             }

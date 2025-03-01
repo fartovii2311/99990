@@ -239,7 +239,7 @@ let handler = async (m, { conn }) => {
   let bio = await conn.fetchStatus(who).catch(() => 'undefined');
   let biot = bio.status?.toString() || 'Sin Info';
   let user = global.db.data.users[who];
-  let pp = await conn.profilePictureUrl(who, 'image').catch(() => 'https://i.ibb.co/Y7mhFdf/file.jpg');
+  let pp = await conn.profilePictureUrl(who, 'image').catch(() => '/media/menus/меню11.mp4');
   let { exp, Monedas, name, registered, regTime, age, level } = global.db.data.users[who];
   let { min, xp, max } = xpRange(user.level, global.multiplier);
   let username = conn.getName(who);
