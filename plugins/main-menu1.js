@@ -1,6 +1,6 @@
 let handler = async (m, { isPrems, conn }) => {
 
-let img = '/media/menus/меню11.mp4'
+const vi = '/media/menus/меню11.mp4'
 let texto = `🌟 𝐌𝐄𝐍𝐔2 🌟
 *˚₊·˚₊· ͟͟͞͞➳❥ @+${m.sender.split("@")[0]}*
 > ┆ *│* ┊▸ ✦ 
