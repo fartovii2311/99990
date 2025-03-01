@@ -67,9 +67,9 @@ let menu = `*☆═━┈◈ ╰ ${vs} ╯ ◈┈━═☆*
  `.trim()
     
 const vi = [
-'/media/menus/меню11.mp4',
-'/media/menus/меню11.mp4',
-'/media/menus/меню11.mp4'
+'https://i.ibb.co/Y7mhFdf/file.jpg',
+'https://i.ibb.co/Y7mhFdf/file.jpg',
+'https://i.ibb.co/Y7mhFdf/file.jpg'
 ]
 try {
 await conn.sendMessage(m.chat, { video: { url: vi.getRandom() }, gifPlayback: true, caption: menu, contextInfo: fakeChannel2 })

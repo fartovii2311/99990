@@ -1,7 +1,7 @@
 import { spawn } from 'child_process';
 
 let handler = async (m, { conn }) => {
-    const imageUrl = '/media/menus/меню11.mp4'; 
+    const imageUrl = 'https://i.ibb.co/Y7mhFdf/file.jpg'; 
 
     await conn.sendMessage(m.chat, { 
         image: { url: imageUrl },

@@ -113,7 +113,7 @@ global.ch = {
         mediaUrl: null, 
         description: null, 
         previewType: "", 
-        thumbnailUrl: "/media/menus/меню11.mp4",
+        thumbnailUrl: "https://i.ibb.co/Y7mhFdf/file.jpg",
         sourceUrl: "https://dark-core-api.vercel.app/",
         mediaType: 1, 
         renderLargerThumbnail: true 

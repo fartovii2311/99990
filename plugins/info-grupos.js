@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'
 
 let handler  = async (m, { conn, usedPrefix, command }) => {
-let img = await (await fetch(`/media/menus/меню11.mp4`)).buffer()
+let img = await (await fetch(`https://i.ibb.co/Y7mhFdf/file.jpg`)).buffer()
 const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
 let txt = `*Здравствуйте!, я приглашаю вас присоединиться к официальным группам бота, чтобы жить в сообществе :D*
